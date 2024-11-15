@@ -179,7 +179,8 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-
+## Marketing view
+Marketing.gif
 
 
 ## Project Outcome
