@@ -179,10 +179,6 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Marketing view
-Marketing.gif
-
-
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
